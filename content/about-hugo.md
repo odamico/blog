@@ -1,17 +1,11 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About Me"
+date = "2020-01-05"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+I am currently pursuing an Honours Bachelor of Technology degree in Informatics and Security at Seneca College.
+My tech journey began with Java programming for my highschool computer science classes. From there, I learned about
+computer hardware basics through private classes. So far studying at Seneca, I have learned networking, Linux system administration,
+C programming, computer forensics, reverse engineering, database administration, penetration testing, and so much more. In my free time
+I enjoy practicing these skills and tinkering around with my own personal tech projects, this blog is dedicated to demonstrating some of
+those projects.
