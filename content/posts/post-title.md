@@ -10,4 +10,4 @@ draft: false
 
 This site was generated using Hugo, a fast and simple framework for building static webpages.
 Hugo works nicely with GitHub pages for hosting simple web content. I hope to post personal projects and guides
-related to information security, programming, game development, data science, and more. 
+related to information security, programming, game development, data science, and more! 
