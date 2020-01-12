@@ -1,7 +1,7 @@
 ---
 title: "Data Science Project: Creating a Command Line Pokedex in Python3"
 author: "Oscar D'amico"
-date: 2020-01-05
+date: 2020-01-12
 draft: false
 tags: 
   - python
