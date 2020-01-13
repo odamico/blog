@@ -15,7 +15,7 @@ googling the new species I would encounter quite often. I would take time to
 look at their stats and what they were weak to and strong against. These searches started 
 taking up time very quickly. For reference, each page contains a table of contents like this:  
 
-{{< figure src="http://odamico.github.io/contents.png" alt="Bulbapedia table of contents for Mimikyu" link="https://bulbapedia.bulbagarden.net/wiki/Mimikyu_(Pok%C3%A9mon)" caption="The bulbapedia page for one Pokemon - Mimikyu" >}}
+{{< figure src="https://odamico.github.io/contents.png" alt="Bulbapedia table of contents for Mimikyu" link="https://bulbapedia.bulbagarden.net/wiki/Mimikyu_(Pok%C3%A9mon)" caption="The bulbapedia page for one Pokemon - Mimikyu" >}}
 
 That is quite a lot of information. Especially when all the data I needed could be represented
 in a couple of lines of text. I felt like I could program a solution that fit my needs more
